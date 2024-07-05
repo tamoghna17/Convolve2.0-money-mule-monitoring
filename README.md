@@ -1,4 +1,4 @@
-# money-mule-monitoring
+# Convolve2.0/money-mule-monitoring
 convolve-2.0
 
 An ML based competition organized wherein the aim was to closely monitor accounts given in a dataset and several independent variables including:
